@@ -1,3 +1,2 @@
-# DevOps App
-
+# DevOps L3 App
 ![CI Pipeline](https://github.com/Guyjoseph13/devops/actions/workflows/ci.yml/badge.svg)
